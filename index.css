@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-size: xxx-large;
+  font-family: "Oswald";
+  font-weight: 300;
+}
+
+table {
+  border-width: 1px;
+  border-style: outset;
+  border-color: black;
+  border-collapse: collapse;
+  margin-top: 50px;
+}
+
+th {
+  background-color: #dcdcdc;
+}
+
+td {
+  border-width: 1px;
+  border-style: outset;
+  border-color: black;
+  padding: 20px;
+}
+
+#coluna_1 {
+  background-color: aquamarine;
+}
